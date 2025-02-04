@@ -174,7 +174,7 @@ const ds = {
       name: "Join The Community",
       items: [
         { label: "X", href: "https://x.com/nfinityai_erc20" },
-        { label: "Dextools", href: "https://www.dextools.io/app/" },
+        { label: "Dextools", href: "https://www.dextools.io/app/en/ether/pair-explorer/0x7ea40dc7e5c32381612d0657c21753ac4e5e4212?t=1738677587590" },
         { label: "Telegram", href: "https://t.me/nfinityai_erc20" },
       ],
     },
@@ -8956,7 +8956,7 @@ function mc(s) {
     m,
     g,
     _,
-    M = `<img src="${an}" alt="Logo" class="ml-[20px] w-[165px]" fill="white"/> <div class="menu-container items-center svelte-uxffec"><a href="https://x.com/nfinityai_erc20" class="menu-item svelte-uxffec">X</a> <a href="https://www.dextools.io/app/" class="menu-item svelte-uxffec">Dextools</a> <a href="https://t.me/nfinityai_erc20" class="menu-item svelte-uxffec">Telegram</a> <div class="ml-[31px] mr-[24px] h-[70px] w-[1px] bg-[#323232]"></div> <a href="https://app.nfinityai.pro/" class="menu-item svelte-uxffec">Explore Models</a></div>`,
+    M = `<img src="${an}" alt="Logo" class="ml-[20px] w-[165px]" fill="white"/> <div class="menu-container items-center svelte-uxffec"><a href="https://x.com/nfinityai_erc20" class="menu-item svelte-uxffec">X</a> <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x7ea40dc7e5c32381612d0657c21753ac4e5e4212?t=1738677587590" class="menu-item svelte-uxffec">Dextools</a> <a href="https://t.me/nfinityai_erc20" class="menu-item svelte-uxffec">Telegram</a> <div class="ml-[31px] mr-[24px] h-[70px] w-[1px] bg-[#323232]"></div> <a href="https://app.nfinityai.pro/" class="menu-item svelte-uxffec">Explore Models</a></div>`,
     w,
     y,
     k,
